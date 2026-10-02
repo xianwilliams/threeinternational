@@ -1,0 +1,424 @@
+[
+  {
+    "id": "3478",
+    "slug": "glp-three",
+    "name": "GLP THREE",
+    "category": "Weight management",
+    "headline": "A little bottle. A new beginning.",
+    "tagline": "Daily support for weight management and food cravings*",
+    "description": "Introducing GLP THREE, an innovative new product designed to support your weight management goals. GLP THREE is powered by MBC-267, an all-natural peptide complex discovered in salmon living deep in the waters of the Norwegian Sea and in mushrooms.",
+    "benefits": [
+      "Curb food cravings",
+      "Supports healthy weight management",
+      "Supports lean body composition"
+    ],
+    "ingredients": [
+      "MBC-267 Peptides",
+      "Panax Ginseng Extract",
+      "Saffron Extract",
+      "Humulus Lupulus Extract (Hops)"
+    ],
+    "price": 85.0,
+    "subscriptionPrice": 76.5,
+    "image": "/images/glp-three-dietary-supplement.webp",
+    "gallery": ["/images/glp-three-0.png", "/images/glp-three-1.webp", "/images/glp-three-2.webp"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/3478/US"
+  },
+  {
+    "id": "2802",
+    "slug": "vitalite",
+    "name": "Vitalité",
+    "category": "Daily wellness",
+    "headline": "Your daily foundation.",
+    "tagline": "Comprehensive multivitamin for daily wellness",
+    "description": "Vitalité is a powerful, daily supplement that works at the cellular level to deliver the essential nutrients your body needs to perform at its best every day.",
+    "benefits": [
+      "Provides a vast portfolio of vitamins, minerals, and nutrients vital for proper health.*",
+      "Promotes heart, brain, and eye health.*",
+      "Supports health of the gut microbiome.*",
+      "Promotes cellular energy.*"
+    ],
+    "ingredients": [
+      "Superfood Blend",
+      "Naturally Derived Vitamins and Minerals",
+      "72 Trace Minerals and Amino Acids",
+      "Enzyme Blend",
+      "Probiotics",
+      "Berry Blend",
+      "Omega-3 Complex Softgel"
+    ],
+    "price": 85.0,
+    "subscriptionPrice": 76.5,
+    "image": "/images/vitalite-omega-3-daily-multivitamin.webp",
+    "gallery": ["/images/vitalite-0.webp", "/images/vitalite-1.webp", "/images/vitalite-2.webp"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/2802/US"
+  },
+  {
+    "id": "2797",
+    "slug": "eternel",
+    "name": "Éternel",
+    "category": "Healthy aging",
+    "headline": "Wellness for the long run.",
+    "tagline": "Antioxidant support for cellular vitality",
+    "description": "Éternel is an advanced blend of liposomal antioxidants and polyphenols that helps protect your body’s cells and systems from the damage caused by free radicals.",
+    "benefits": [
+      "Protects and supports cells from damage and premature aging.*",
+      "Promotes cellular health and longevity.*",
+      "Works to neutralize free radicals.*",
+      "Delivers powerful phytonutrients to protect against UV damage.*"
+    ],
+    "ingredients": ["Resveratrol", "Superfruits", "Glutathione", "Coenzyme Q10 (CoQ10)"],
+    "price": 130.0,
+    "subscriptionPrice": 117.0,
+    "image": "/images/eternel-antioxidant-resveratrol-coq10-supplement.webp",
+    "gallery": ["/images/eternel-0.png", "/images/eternel-1.webp", "/images/eternel-2.webp"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/2797/US"
+  },
+  {
+    "id": "2798",
+    "slug": "collagene",
+    "name": "Collagène",
+    "category": "Skin & beauty",
+    "headline": "Beauty, from within.",
+    "tagline": "Bioavailable collagen for hair, skin, and nails",
+    "description": "This delicious blend of collagen and other powerful ingredients nourishes cells to keep your skin, hair, and nails vibrant and healthy.*",
+    "benefits": [
+      "Promotes vibrant and youthful-looking skin.*",
+      "Delivers 5 grams of highly bioavailable marine collagen.*",
+      "Promotes the body’s natural ability to produce collagen.*",
+      "Supports healthy skin, hair, and nails.*",
+      "Supports healthy immune response and joints.*"
+    ],
+    "ingredients": [
+      "Marine Collagen",
+      "Pomegranate Juice Concentrate",
+      "Keratin",
+      "Vitamin C",
+      "Hyaluronic Acid",
+      "Biotin"
+    ],
+    "price": 70.0,
+    "subscriptionPrice": 63.0,
+    "image": "/images/collagene-marine-collagen-supplement.webp",
+    "gallery": ["/images/collagene-0.png", "/images/collagene-1.webp", "/images/collagene-2.webp"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/2798/US"
+  },
+  {
+    "id": "3516",
+    "slug": "kynetik",
+    "name": "Kynetik",
+    "category": "Natural energy",
+    "headline": "A brighter kind of energy.",
+    "tagline": "Clean, plant-powered caffeinated drink mix",
+    "description": "Meet Kynetik. Clean caffeine, supercharged. Powered by Yerba Santa, this clean energy drink offers a balanced approach to daily energy support. Kynetik combines plant-based energy with hydrating electrolytes and brain-supporting nutrients to deliver deep hydration and adrenal support. No crash, no jitters. Just pure Kynetik clarity.",
+    "benefits": [
+      "200 mg of clean, plant-based caffeine delivers jitter-free energy to your body and mind without the crash. *",
+      "Free of taurine, sucralose, aspartame, sugar, and artificial colors and flavors.*",
+      "B vitamins and ingredients like rosavins and grape polyphenols support brain function, mental endurance, and a positive mood. *",
+      "Essential electrolytes help your body absorb fluids more effectively, maintain cellular communication, and stay energized throughout the day. *",
+      "Yerba Santa plant molecules help combat adrenal fatigue and burnout, leading to a more balanced energy release that helps you stay energized throughout the day. *"
+    ],
+    "ingredients": [
+      "Yerba Santa Extract: A rare flavanone from a desert plant that helps the body resist adrenal fatigue.",
+      "Green Tea Extract: Natural caffeine with polyphenols to enhance bioavailability and reduce crash.",
+      "Rosavins (from rhodiola): Adaptogenic compounds to support mental endurance and positive mood state.",
+      "Grape Polyphenols + Ginsenosides: Botanical antioxidants that support circulation and brain function.",
+      "B Vitamin Complex: Formulated to help maintain nutrient levels that may be impacted by daily stressors.",
+      "Electrolyte Blend: Delivers four essential electrolytes to fuel your system and quench your thirst."
+    ],
+    "price": 85.0,
+    "subscriptionPrice": 76.5,
+    "image": "/images/kynetik-clean-caffeine-natural-energy-drink.webp",
+    "gallery": ["/images/kynetik-0.png"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/3516/US"
+  },
+  {
+    "id": "2799",
+    "slug": "revive",
+    "name": "Revíve",
+    "category": "Daily wellness",
+    "headline": "Keep doing what moves you.",
+    "tagline": "Recovery support for joints and muscles",
+    "description": "Revíve’s unique formula is specially designed to work at the cellular level to support healthy joints and offers enhanced flexibility, mobility, and range of motion.",
+    "benefits": [
+      "Supports healthy joints.*",
+      "Eases muscle stiffness.*",
+      "Maintains a healthy inflammatory status in the body.*",
+      "Promotes exercise recovery.*",
+      "Counteracts the effects of free radicals.*"
+    ],
+    "ingredients": [
+      "Curcumin, Boswellia, and Black Cumin Oil",
+      "Quillaja Saponins Oil",
+      "Grape Seed Extract",
+      "Shiitake Mushroom Extract",
+      "Sea Buckthorn Fruit Oil",
+      "Piperine and Menthol"
+    ],
+    "price": 72.0,
+    "subscriptionPrice": 64.8,
+    "image": "/images/revive-muscle-recovery-joint-support-supplement.webp",
+    "gallery": ["/images/revive-0.webp", "/images/revive-1.webp", "/images/revive-2.webp"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/2799/US"
+  },
+  {
+    "id": "2801",
+    "slug": "purifi",
+    "name": "Purifí",
+    "category": "Daily wellness",
+    "headline": "A fresh start from within.",
+    "tagline": "Detox formula for whole-body cleansing",
+    "description": "Purifí is an advanced blend of cleansing herbs and fulvic acid. It works at the cellular level to support the body’s elimination organs and remove harmful toxins and pollutants.",
+    "benefits": [
+      "Detoxifies and cleanses 5 organs (liver, lungs, colon, kidneys, and skin).*",
+      "Supports the body’s elimination organs to remove toxins.*",
+      "Increases nutrient absorption in the body.*",
+      "Helps support a healthy weight.*",
+      "Eliminates heavy metal toxins.*"
+    ],
+    "ingredients": [
+      "Humic Shale Extract Powder",
+      "Liposomal Milk Thistle Extract and Burdock Root",
+      "Kelp and Apple Pectin",
+      "Coriander Leaf and Dandelion Root",
+      "Chlorophyllin Capsule",
+      "Mullein Leaf",
+      "Stinging Nettle Leaf"
+    ],
+    "price": 70.0,
+    "subscriptionPrice": 63.0,
+    "image": "/images/purifi-cellular-detox-cleanse-supplement.webp",
+    "gallery": ["/images/purifi-0.webp", "/images/purifi-1.webp", "/images/purifi-2.webp"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/2801/US"
+  },
+  {
+    "id": "2803",
+    "slug": "imune",
+    "name": "Imúne",
+    "category": "Daily wellness",
+    "headline": "Support for every season.",
+    "tagline": "Immune support for overall wellness",
+    "description": "Specially designed to work at the cellular level, Imúne’s unique blend of vitamins, minerals and phytochemicals supports and enhances your body’s natural immune response.",
+    "benefits": [
+      "Supports both the innate and adaptive immune system.*",
+      "Inhibits quorum sensing.*",
+      "Formulated to work at a cellular level.*",
+      "Supports a healthy, diverse microbiome.*"
+    ],
+    "ingredients": [
+      "Quorum Sensing Support Blend",
+      "Adaptive Immunity Support Blend",
+      "Innate Immunity Support Blend"
+    ],
+    "price": 70.0,
+    "subscriptionPrice": 63.0,
+    "image": "/images/imune-immune-support-supplement.webp",
+    "gallery": ["/images/imune-0.webp", "/images/imune-1.webp", "/images/imune-2.webp"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/2803/US"
+  },
+  {
+    "id": "3041",
+    "slug": "visage-super-serum",
+    "name": "Visage Super Serum",
+    "category": "Skin & beauty",
+    "headline": "A little more radiance.",
+    "tagline": "Neurocosmetic for radiant skin",
+    "description": "Visage Super Serum by THREE, a neurocosmetic, breaks through traditional skincare categories by offering more than mere nourishment and renewal. It actively revitalizes the appearance of the skin, supports natural rejuvenation processes, and promotes skin elasticity and suppleness—all while enhancing your overall sense of well-being with every application.",
+    "benefits": [
+      "Provides a visible reduction in wrinkles and expression lines.*",
+      "Supports a hydrated complexion and enhances skin tone.*",
+      "Nurtures existing healthy skin and supports skin comfort.*",
+      "Tackles environmental factors that affect skin over time.*",
+      "Enhances overall sense of well-being with every application.*"
+    ],
+    "ingredients": [
+      "Coriandrum Sativum",
+      "Zanthoxylum Alatum",
+      "Helianthus Annuus",
+      "Vitex Agnus-Castus"
+    ],
+    "price": 159.0,
+    "subscriptionPrice": 143.1,
+    "image": "/images/visage-super-serum-vitamin-c-hyaluronic-acid-serum.webp",
+    "gallery": [
+      "/images/visage-super-serum-0.webp",
+      "/images/visage-super-serum-1.webp",
+      "/images/visage-super-serum-2.webp"
+    ],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/3041/US"
+  },
+  {
+    "id": "3136",
+    "slug": "visage-creme-caviar",
+    "name": "Visage Crème Caviar",
+    "category": "Skin & beauty",
+    "headline": "Let your skin drink it in.",
+    "tagline": "Luxurious moisturizer",
+    "description": "Visage Crème Caviar by THREE is a luxurious moisturizer that masterfully combines rare botanical extracts with powerful neurocosmetic molecules and Quorum Sensing Technology to nourish, hydrate, and revitalize the skin for a youthful, radiant complexion.",
+    "benefits": [
+      "Masterfully formulated at a molecular level with revolutionary ingredients that support healthy aging and promote the look of rested, glowing skin",
+      "Helps preserve and replenish essential moisture to keep skin soft, supple, and hydrated day after day, even in harsh environments",
+      "Promotes skin’s natural barriers while helping it react to stressors and achieve a luminous complexion",
+      "Absorbs effortlessly, providing deep hydration without feeling heavy or greasy"
+    ],
+    "ingredients": [
+      "Mountain Caviar (Kochia Scoparia Fruit Extract)",
+      "Acetyl Hexapeptide-8",
+      "Palmitoyl Tetrapeptide-7",
+      "Glyceryl Glucoside"
+    ],
+    "price": 140.0,
+    "subscriptionPrice": 126.0,
+    "image": "/images/visage-creme-caviar-hydrating-face-moisturizer.webp",
+    "gallery": [
+      "/images/visage-creme-caviar-0.jpg",
+      "/images/visage-creme-caviar-1.webp",
+      "/images/visage-creme-caviar-2.webp"
+    ],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/3136/US"
+  },
+  {
+    "id": "3092",
+    "slug": "pure-cleanse",
+    "name": "Pure Cleanse",
+    "category": "Skin & beauty",
+    "headline": "Start beautifully.",
+    "tagline": "Gentle cleaner for balanced skin",
+    "description": "Visage Pure Cleanse by THREE, the ultimate gentle cleanser, offers a luxurious yet gentle cleansing experience that elevates your skincare routine. Formulated with high-quality natural ingredients and advanced science, this cleanser purifies the skin while preserving its natural moisture balance. Designed to maintain your skin’s comfort, it leaves your complexion feeling refreshed, hydrated, and ready for the next steps in your regimen.",
+    "benefits": [
+      "Gently cleans and removes impurities without stripping natural oils",
+      "Moisturizes skin, keeping it soft and smooth",
+      "Maintains skin's natural barrier for protection",
+      "Prepares skin for better absorption of skincare products",
+      "Safe for all skin types, including sensitive"
+    ],
+    "ingredients": [
+      "Allantoin",
+      "Plantago Major Leaf Extract (Plantain)",
+      "Phaseolus Angularis Seed Extract",
+      "Morinda Citrifolia Extract",
+      "Simmondsia Chinesis (Jojoba) Seed Oil",
+      "Helianthus Annuus (Sunflower) Seed Oil"
+    ],
+    "price": 75.0,
+    "subscriptionPrice": 67.5,
+    "image": "/images/pure-cleanse-gentle-hydrating-facial-cleanser.webp",
+    "gallery": [
+      "/images/pure-cleanse-0.webp",
+      "/images/pure-cleanse-1.webp",
+      "/images/pure-cleanse-2.webp"
+    ],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/3092/US"
+  },
+  {
+    "id": "3093",
+    "slug": "radiant-toner",
+    "name": "Radiant Toner",
+    "category": "Skin & beauty",
+    "headline": "Make room for radiance.",
+    "tagline": "Hydrating toner for enhanced absorption",
+    "description": "Visage Radiant Toner by THREE, is a refreshing and vitamin-rich toner that enhances your skin’s natural communication processes through Quorum Sensing Technology, ensuring your complexion is primed and ready for the next step in your skincare regimen.",
+    "benefits": [
+      "Maintains skin's natural pH balance, supporting its protective barrier",
+      "Removes residual impurities and hydrates skin, keeping it refreshed all day",
+      "Reduces the appearance of pores by removing excess oil and dead skin cells",
+      "Absorbs quickly, making it easy to layer with serums or moisturizers"
+    ],
+    "ingredients": [
+      "Niacinamide",
+      "Beta-Glucan",
+      "Plantago Major Leaf Extract (Plantain)",
+      "Magnesium Ascorbyl Phosphate (Vitamin C)"
+    ],
+    "price": 54.0,
+    "subscriptionPrice": 48.6,
+    "image": "/images/radiant-toner-hydrating-vitamin-c-toner.webp",
+    "gallery": [
+      "/images/radiant-toner-0.webp",
+      "/images/radiant-toner-1.webp",
+      "/images/radiant-toner-2.webp"
+    ],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/3093/US"
+  },
+  {
+    "id": "3581",
+    "slug": "glp-three-four-pack",
+    "name": "GLP THREE 4 Pack",
+    "category": "Bundles",
+    "headline": "Make it your daily ritual.",
+    "tagline": "Your GLP THREE routine, four bottles at a time",
+    "description": "Introducing GLP THREE™, an innovative new product designed to support your weight management goals. GLP THREE™ is powered by MBC-267, an all-natural peptide complex discovered in salmon living deep in the waters of the Norwegian Sea and in mushrooms. The Pack comes with 4 bottles of GLP THREE™, providing a convenient supply to help support your wellness journey.",
+    "benefits": [
+      "Curb food cravings",
+      "Supports healthy weight management",
+      "Supports lean body composition"
+    ],
+    "ingredients": [
+      "MBC-267 Peptides",
+      "Panax Ginseng Extract",
+      "Saffron Extract",
+      "Humulus Lupulus Extract (Hops)"
+    ],
+    "price": 239.0,
+    "subscriptionPrice": 215.1,
+    "image": "/images/glp-three-four-pack-appetite-support-supplement-330x330.webp",
+    "gallery": ["/images/glp-three-four-pack-0.png"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/3581/US"
+  },
+  {
+    "id": "3144",
+    "slug": "visage-collection",
+    "name": "The Visage Collection",
+    "category": "Bundles",
+    "headline": "Your complete skin ritual.",
+    "tagline": "Luxury skincare system for hydration and radiance",
+    "description": "Step into the future of skincare with Visage, a unique collection designed to redefine your routine with revitalizing luxury. Visage Pure Cleanse Visage Radiant Toner Visage Super Serum Visage Crème Caviar Together, these four innovations define the next level of skincare, offering an experience as luxurious as it is effective. Elevate your regimen with Visage, where every step brings you closer to healthier, more radiant skin!",
+    "benefits": [
+      "Gently cleans and removes impurities without stripping natural oils.",
+      "Moisturizes skin, keeping it soft and smooth.",
+      "Maintains skin's natural barrier for protection.",
+      "Maintains skin's natural pH balance, supporting its protective barrier.",
+      "Removes residual impurities and hydrates skin, keeping it refreshed all day.",
+      "Reduces the appearance of pores by removing excess oil and dead skin cells.",
+      "Absorbs quickly, making it easy to layer with serums or moisturizers.",
+      "Nurtures existing healthy skin and supports skin comfort.",
+      "Tackles environmental factors that affect skin over time.",
+      "Enhances overall sense of well-being with every application.",
+      "Deeply hydrates and locks in moisture for long-lasting, supple skin.",
+      "Supports skin balance and resilience with advanced Quorum Sensing ingredients.",
+      "Nourishes with neurocosmetic molecules and botanical extracts for a radiant glow."
+    ],
+    "ingredients": [
+      "Niacinamide",
+      "Beta-Glucan",
+      "Plantago Major Leaf Extract (Plantain)",
+      "Magnesium Ascorbyl Phosphate (Vitamin C)",
+      "Mountain Caviar (Kochia Scoparia Fruit Extract)"
+    ],
+    "price": 222.0,
+    "subscriptionPrice": 199.8,
+    "image": "/images/visage-skincare-collection-cleanser-toner-serum-moisturizer-330x330.webp",
+    "gallery": ["/images/visage-collection-0.jpg"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/3144/US"
+  },
+  {
+    "id": "3622",
+    "slug": "impact-pack",
+    "name": "Impact Pack",
+    "category": "Bundles",
+    "headline": "Better together.",
+    "tagline": "Four products. One coordinated daily wellness routine.",
+    "description": "Impact Pack brings together Revíve, GLP THREE™, Purifi, and Kynetik Clean Caffeine Berry Blast to support movement and recovery, healthy weight-management goals, digestive wellness, hydration, focus, and clean energy.*",
+    "benefits": [
+      "Supports healthy joints, mobility, and exercise recovery with Revíve.*",
+      "Supports healthy weight-management goals and lean body composition with GLP THREE™.*",
+      "Supports clean energy, hydration, mental endurance, and focus with Kynetik Clean Caffeine Berry Blast.*"
+    ],
+    "ingredients": ["Revíve", "GLP THREE™", "Purifí", "Kynetik Clean Caffeine Berry Blast"],
+    "price": 399.0,
+    "subscriptionPrice": 359.1,
+    "image": "/images/three-impact-pack-wellness-supplement-bundle-330x330.webp",
+    "gallery": ["/images/impact-pack-0.png"],
+    "sourceUrl": "https://www.threeinternational.com/en/productdetail/2/3622/US"
+  }
+]

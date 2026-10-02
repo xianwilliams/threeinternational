@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-01",
+  "model": "seedance_2_5",
+  "overallLimit": 500,
+  "earlierCredits": 72,
+  "newCredits": 180,
+  "totalCredits": 252,
+  "projectId": "520e23aa-5644-4586-9b57-b14b83f92866",
+  "generations": [
+    {
+      "page": "Home",
+      "jobId": "3dc2812e-c499-4c40-8fee-3207425c566c",
+      "credits": 60,
+      "limit": 70,
+      "durationSeconds": 5,
+      "resolution": "1080p",
+      "status": "completed",
+      "sourceUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_335fRzh0TiJHMijcYJy8i6hwfjd/hf_20261001_223355_3dc2812e-c499-4c40-8fee-3207425c566c.mp4",
+      "localFile": "/video/home-hero-v2.mp4"
+    },
+    {
+      "page": "Our Story",
+      "jobId": "9b369140-5056-4675-9dd2-b546cf5d4c6d",
+      "credits": 60,
+      "limit": 70,
+      "durationSeconds": 5,
+      "resolution": "1080p",
+      "status": "completed",
+      "sourceUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_335fRzh0TiJHMijcYJy8i6hwfjd/hf_20261001_223354_9b369140-5056-4675-9dd2-b546cf5d4c6d.mp4",
+      "localFile": "/video/story-hero.mp4"
+    },
+    {
+      "page": "Science",
+      "jobId": "388ebdb5-83af-4e6d-af3e-f322c104dd3f",
+      "credits": 60,
+      "limit": 70,
+      "durationSeconds": 5,
+      "resolution": "1080p",
+      "status": "completed",
+      "sourceUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_335fRzh0TiJHMijcYJy8i6hwfjd/hf_20261001_223355_388ebdb5-83af-4e6d-af3e-f322c104dd3f.mp4",
+      "localFile": "/video/science-hero.mp4"
+    }
+  ]
+}

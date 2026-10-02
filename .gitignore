@@ -1,0 +1,38 @@
+# Dependencies and generated build output
+node_modules/
+.next/
+out/
+dist/
+build/
+next-env.d.ts
+*.tsbuildinfo
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vercel/
+.aws/
+
+# Caches, logs, and verification output
+.cache/
+.turbo/
+__pycache__/
+*.py[cod]
+*.log
+coverage/
+playwright-report/
+test-results/
+verification/
+
+# Local editor, agent, and OS files
+.idea/
+.vscode/
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
